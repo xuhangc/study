@@ -13,6 +13,7 @@
     2. [udemy](https://www.udemy.com/)
     3. [edx](https://www.edx.org/)
     4. [udacity](https://www.udacity.com)
+    5. [youtube](https://www.youtube.com)
 
 ## 资料
 - 知乎
