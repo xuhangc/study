@@ -54,6 +54,8 @@
 
 # 思考
 
+## 提问的基本要求（StackOverflow）
+
 ## 实践
 - [free code camp](https://www.freecodecamp.org/)
 - [hackr.io](https://hackr.io/)
@@ -69,3 +71,5 @@
 - [请永远不要寄希望于从大众平台上找到学习之路](https://zhuanlan.zhihu.com/p/68556316)
 - [为什么面向对象糟透了？](https://zhuanlan.zhihu.com/p/92345645)
 - [面向对象编程的弊端是什么？](https://www.zhihu.com/question/20275578)
+- [为什么不建议只学习 JS 和 Python，大学还要学 20 多年前火过的 C？](https://www.zhihu.com/question/350460694)
+- [国外的计算机专业 是如何教《计算机组成原理》这门课的？](https://www.zhihu.com/question/38838088)
