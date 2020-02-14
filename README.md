@@ -61,6 +61,7 @@
 - [有哪些值得推荐的 Java 练手项目？](https://www.zhihu.com/question/56476038)
 - [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574)
 - [有哪些适合新手练手的C/C++项目？](https://zhuanlan.zhihu.com/p/23047091)
+- [自学c语言，有什么好的建议或方法吗？](https://www.zhihu.com/question/39115307)
 
 ## 反思
 - [为什么滑铁卢大学让大一学生从不实用的racket语言学起而不是直接上手C语言？](https://www.zhihu.com/question/348189701)
