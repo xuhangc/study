@@ -55,6 +55,8 @@
 # 思考
 
 ## 提问的基本要求（StackOverflow）
+- [What topics can I ask about here?](https://stackoverflow.com/help/on-topic)
+- [What types of questions should I avoid asking?](https://stackoverflow.com/help/dont-ask)
 
 ## 实践
 - [free code camp](https://www.freecodecamp.org/)
