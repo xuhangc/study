@@ -67,6 +67,7 @@
 
 ## 实践
 - [codecademy](https://www.codecademy.com/)
+- [codewithmosh](https://codewithmosh.com/)
 - [free code camp](https://www.freecodecamp.org/)
 - [hackr.io](https://hackr.io/)
 - [GitHub 上有哪些适合新手跟进的优质项目？](https://www.zhihu.com/question/22744854)
