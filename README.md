@@ -59,6 +59,12 @@
     - [程序员常用的刷题网站](https://zhuanlan.zhihu.com/p/24212206)
     - [应该选择哪个 Online Judge?](https://www.zhihu.com/question/33640620)
 
+## 可视化工具
+1. [可视化学习数据结构和算法](https://visualgo.net/zh)
+
+## 其他整合平台
+1.[廖雪峰](https://www.liaoxuefeng.com/)
+
 # 思考
 
 ## 提问的基本要求（StackOverflow）
