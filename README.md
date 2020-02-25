@@ -95,5 +95,7 @@
 - [大家的公司的 Code Review 都是怎么做的？遇到过哪些问题？](https://www.zhihu.com/question/41089988)
 - [计算机专业大学生应该在大学四年踏实学哪些东西?](https://www.zhihu.com/question/27368268)
 
-## 总览
+## 总览培训
 - [Developer Roadmaps](https://roadmap.sh/)
+- [Lynda](https://www.lynda.com/)
+- [Pluralsight](https://www.pluralsight.com/)
