@@ -91,6 +91,7 @@
 - [国外的计算机专业 是如何教《计算机组成原理》这门课的？](https://www.zhihu.com/question/38838088)
 - [大家的公司的 Code Review 都是怎么做的？遇到过哪些问题？](https://www.zhihu.com/question/41089988)
 - [计算机专业大学生应该在大学四年踏实学哪些东西?](https://www.zhihu.com/question/27368268)
+- [有关程序员的经典名言都有哪些？](https://www.zhihu.com/question/19710524)
 
 ## 总览培训
 - [Developer Roadmaps](https://roadmap.sh/)
