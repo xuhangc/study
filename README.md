@@ -72,16 +72,13 @@
 - [What types of questions should I avoid asking?](https://stackoverflow.com/help/dont-ask)
 
 ## 实践
-- [codecademy](https://www.codecademy.com/)
-- [codewithmosh](https://codewithmosh.com/)
-- [free code camp](https://www.freecodecamp.org/)
-- [hackr.io](https://hackr.io/)
 - [GitHub 上有哪些适合新手跟进的优质项目？](https://www.zhihu.com/question/22744854)
 - [有哪些值得推荐的 Java 练手项目？](https://www.zhihu.com/question/56476038)
 - [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574)
 - [有哪些适合新手练手的C/C++项目？](https://zhuanlan.zhihu.com/p/23047091)
 - [自学c语言，有什么好的建议或方法吗？](https://www.zhihu.com/question/39115307)
 - [新手想玩硬件，买单片机还是树莓派好？](https://www.zhihu.com/question/66290306)
+- [educoder](https://www.educoder.net/)
 
 
 ## 反思
@@ -99,3 +96,7 @@
 - [Developer Roadmaps](https://roadmap.sh/)
 - [Lynda](https://www.lynda.com/)
 - [Pluralsight](https://www.pluralsight.com/)
+- [codecademy](https://www.codecademy.com/)
+- [codewithmosh](https://codewithmosh.com/)
+- [free code camp](https://www.freecodecamp.org/)
+- [hackr.io](https://hackr.io/)
