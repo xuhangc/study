@@ -104,3 +104,7 @@
 - [Linkedin Premium](https://members.linkedin.com/premiumcareer)
 - [skillshare](https://www.skillshare.com/)
 - [datacamp](https://www.datacamp.com/)
+
+## 阅读
+- [pocket](https://getpocket.com/)
+- [blinkist](https://www.blinkist.com/)
