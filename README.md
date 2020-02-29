@@ -101,3 +101,6 @@
 - [codewithmosh](https://codewithmosh.com/)
 - [free code camp](https://www.freecodecamp.org/)
 - [hackr.io](https://hackr.io/)
+- [Linkedin Premium](https://members.linkedin.com/premiumcareer)
+- [skillshare](https://www.skillshare.com/)
+- [datacamp](https://www.datacamp.com/)
