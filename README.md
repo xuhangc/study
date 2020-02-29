@@ -104,6 +104,10 @@
 - [Linkedin Premium](https://members.linkedin.com/premiumcareer)
 - [skillshare](https://www.skillshare.com/)
 - [datacamp](https://www.datacamp.com/)
+- [exercism](https://exercism.io/)
+- [code wars](https://www.codewars.com/)
+- [solo learn](https://www.sololearn.com/)
+- [odin project](https://www.theodinproject.com/)
 
 ## 阅读
 - [pocket](https://getpocket.com/)
