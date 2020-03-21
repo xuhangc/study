@@ -109,6 +109,7 @@
 - [solo learn](https://www.sololearn.com/)
 - [odin project](https://www.theodinproject.com/)
 - [TreeHouse](https://teamtreehouse.com/)
+- [educative](https://www.educative.io/)
 
 ## 阅读
 - [pocket](https://getpocket.com/)
