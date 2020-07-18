@@ -46,6 +46,7 @@
     - [程序员常用的技术网站](https://zhuanlan.zhihu.com/p/21638054)
     - [MIT6.828 Operating System Engineering](https://zhuanlan.zhihu.com/p/74028717)
     - [如何阅读《深入理解计算机系统》这本书？](https://www.zhihu.com/question/20402534)
+    - [非计算机专业的学生如何入门深度学习？](https://www.zhihu.com/question/67857599)
 
 2. 资讯网站
     - [InfoQ](https://www.infoq.cn/)
@@ -64,6 +65,8 @@
 
 ## 其他整合平台
 1.[廖雪峰](https://www.liaoxuefeng.com/)
+2.[阮一峰](http://www.ruanyifeng.com/home.html)
+3.[优秀程序员的博客有哪些？](https://www.zhihu.com/question/19934502)
 
 # 思考
 
