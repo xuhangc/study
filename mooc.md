@@ -1,0 +1,22 @@
+1. 国内
+    - [网易云课堂](http://open.163.com)
+    - [腾讯课堂](http://daxue.qq.com/)
+    - [中国大学MOOC](https://www.icourse163.org/)
+    - [学堂在线](https://next.xuetangx.com/)
+    - [bilibili](https://www.bilibili.com/)
+    - [gitee](https://gitee.com/)
+    - [思否](https://segmentfault.com/)
+    - [CSDN](https://www.csdn.net/)
+    - [菜鸟教程](https://www.runoob.com/)
+    - [掘金](https://juejin.im/)
+
+2. 国外
+    - [coursera](https://www.coursera.org/)
+    - [udemy](https://www.udemy.com/)
+    - [edx](https://www.edx.org/)
+    - [udacity](https://www.udacity.com)
+    - [youtube](https://www.youtube.com)
+    - [github](https://github.com/)
+    - [stackoverflow](https://stackoverflow.com/)
+    - [V2EX](https://www.v2ex.com/)
+    - [w3schools](https://www.w3schools.com/)
