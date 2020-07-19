@@ -1,3 +1,9 @@
+#### 常用小工具
+
+1. [iLovePDF](https://www.ilovepdf.com/)
+2. [运营工具大全](https://xiaomark.com/tool)
+3. [开源替代](https://opensource.builders/)
+
 #### 可视化工具
 
 1. [可视化学习数据结构和算法](https://visualgo.net/zh)
