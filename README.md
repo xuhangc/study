@@ -47,6 +47,9 @@
     - [MIT6.828 Operating System Engineering](https://zhuanlan.zhihu.com/p/74028717)
     - [如何阅读《深入理解计算机系统》这本书？](https://www.zhihu.com/question/20402534)
     - [非计算机专业的学生如何入门深度学习？](https://www.zhihu.com/question/67857599)
+    - [计算机核心课程及网课推荐](https://zhuanlan.zhihu.com/p/161207148)
+    - [2019 年你读了哪些觉得比较好的计算机书籍？](https://www.zhihu.com/question/361165485)
+    - [一个不是很了解CS（计算机科学）的人，该从哪里开始自学CS？](https://www.zhihu.com/question/380375631)
 
 2. 资讯网站
     - [InfoQ](https://www.infoq.cn/)
