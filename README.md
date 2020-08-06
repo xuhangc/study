@@ -19,3 +19,7 @@
 # 思考
 
 [思考](./thought.md)
+
+# 笔记
+
+[笔记](./Note/Note.md)
