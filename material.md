@@ -23,7 +23,8 @@
     - [计算机核心课程及网课推荐](https://zhuanlan.zhihu.com/p/161207148)
     - [2019 年你读了哪些觉得比较好的计算机书籍？](https://www.zhihu.com/question/361165485)
     - [一个不是很了解CS（计算机科学）的人，该从哪里开始自学CS？](https://www.zhihu.com/question/380375631)
-
+- [YouTube上有哪些牛逼的开发者视频博主？](https://www.zhihu.com/question/357897934)
+    
 2. 资讯网站
     - [InfoQ](https://www.infoq.cn/)
     - [Hacker News](https://news.ycombinator.com/)
