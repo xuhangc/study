@@ -10,6 +10,7 @@
 - [自学c语言，有什么好的建议或方法吗？](https://www.zhihu.com/question/39115307)
 - [新手想玩硬件，买单片机还是树莓派好？](https://www.zhihu.com/question/66290306)
 - [educoder](https://www.educoder.net/)
+- [学习freecodecamp的正确方法是什么？](https://www.zhihu.com/question/47059559)
 
 
 ## 反思
