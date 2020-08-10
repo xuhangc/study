@@ -11,6 +11,7 @@
 - [新手想玩硬件，买单片机还是树莓派好？](https://www.zhihu.com/question/66290306)
 - [educoder](https://www.educoder.net/)
 - [学习freecodecamp的正确方法是什么？](https://www.zhihu.com/question/47059559)
+- [新人学生党，如何充分利用云服务器？](https://www.zhihu.com/question/342135255)
 
 
 ## 反思
