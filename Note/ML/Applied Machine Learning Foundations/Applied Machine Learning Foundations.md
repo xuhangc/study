@@ -104,3 +104,22 @@ Data is divided into k subsets and the holdout method is repeated k times. Each 
     1. Run fivefold cross-validation and select the best models
     2. Re-fit models on full training set, evaluate those models on the validation set and pick the best one.
     3. Evaluate that best model on the test set to gauge its ability to generalize to unseen data.
+
+## Optimizing
+
+#### Bias/variance tradeoff
+
+Bias is the algorithm's tendency to consistently learn the wrong thing by not taking into account all the information in the data.
+
+High bias is a result of the algorithm missing the relevant relations between features and target outputs.
+
+Variance refers to an algorithm's sensitivity to small fluctuations in the training set.
+
+High variance is a result of the algorithm fitting to random noise in the training data.
+
+Total Error = (Bias + Variance) + Irreducible Error
+
+Underfitting occurs when an algorithm cannot capture the underlying trend of the data.
+
+Overfitting occurs when an algorithm fits too closely to a limited set of data.
+
