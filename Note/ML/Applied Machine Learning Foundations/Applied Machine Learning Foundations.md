@@ -78,3 +78,29 @@ Strong/general AI - a machine with consciousness, sentience, and a mind; general
 - Fill missing data if necessary
 - Prune/scale data to account for skewed data/outliers
 
+## Measurement
+
+#### Split up data
+- Training dataset - 60% - data used to train the model(allow the algorithm to learn from this data)
+- Validation dataset - 20% - data used to select the best model(optimal algorithm and hyperparameter settings)
+- Test dataset - 20% - data used to provide an unbiased evaluation of what the model will look like in its real environment
+
+#### Risk of not splitting up
+- Overfitting or underfitting to the data
+- Inaccurate representation of how the model will generalize
+
+#### Holdout test set
+Sample of data not used in fitting a model; used to evaluate the model's ability to generalize to unseen data
+
+#### K-Fold Cross-Validation
+Data is divided into k subsets and the holdout method is repeated k times. Each time, one of the k subsets is used as the test set and the other k-1 subsets are combined to be used to train the model.
+
+#### Evaluation Framework
+- Evaluation metrics
+  - Accuracy
+  - Precision
+  - Recall
+- Process
+    1. Run fivefold cross-validation and select the best models
+    2. Re-fit models on full training set, evaluate those models on the validation set and pick the best one.
+    3. Evaluate that best model on the test set to gauge its ability to generalize to unseen data.
