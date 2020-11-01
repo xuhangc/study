@@ -77,3 +77,4 @@ Strong/general AI - a machine with consciousness, sentience, and a mind; general
 - Encode categorical variables
 - Fill missing data if necessary
 - Prune/scale data to account for skewed data/outliers
+
