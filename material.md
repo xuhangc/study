@@ -23,8 +23,11 @@
     - [计算机核心课程及网课推荐](https://zhuanlan.zhihu.com/p/161207148)
     - [2019 年你读了哪些觉得比较好的计算机书籍？](https://www.zhihu.com/question/361165485)
     - [一个不是很了解CS（计算机科学）的人，该从哪里开始自学CS？](https://www.zhihu.com/question/380375631)
+    - [除了edx，coursera，网络还有哪些公开课资源？](https://www.zhihu.com/question/27952897)
+    - [GitHub 上的这几个项目或许能帮你学好英语](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457914975&idx=1&sn=221b34aba23d7639dad77340716d3db9&chksm=8cb6abb5bbc122a33cd4fc54a88fb33e09229f545d56579c810cfc94328b5188e84535da88c7&scene=21#wechat_redirect)
+    - [99%学霸都在用的国外学习网站](https://zhuanlan.zhihu.com/p/28272881)
 - [YouTube上有哪些牛逼的开发者视频博主？](https://www.zhihu.com/question/357897934)
-    
+  
 2. 资讯网站
     - [InfoQ](https://www.infoq.cn/)
     - [Hacker News](https://news.ycombinator.com/)
