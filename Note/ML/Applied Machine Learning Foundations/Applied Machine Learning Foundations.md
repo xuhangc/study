@@ -24,7 +24,7 @@ Fitting functions to examples where those functions are connected layers of node
 
 connected pattern matching
 
-### Artifical Intelligence
+### Artificial Intelligence
 
 Weak AI - intelligence specifically designed to focus on a narrow task
 
@@ -47,7 +47,7 @@ Strong/general AI - a machine with consciousness, sentience, and a mind; general
 - Lack skills to robustly automate
 - Not enough computer power
 - Inability to A/B test with existing solution
-- Inability to continously track model quality
+- Inability to continuously track model quality
 
 #### Latency
 - Model takes too long to train
@@ -95,6 +95,8 @@ Sample of data not used in fitting a model; used to evaluate the model's ability
 #### K-Fold Cross-Validation
 Data is divided into k subsets and the holdout method is repeated k times. Each time, one of the k subsets is used as the test set and the other k-1 subsets are combined to be used to train the model.
 
+![validation](./validation.png)
+
 #### Evaluation Framework
 - Evaluation metrics
   - Accuracy
@@ -122,4 +124,29 @@ Total Error = (Bias + Variance) + Irreducible Error
 Underfitting occurs when an algorithm cannot capture the underlying trend of the data.
 
 Overfitting occurs when an algorithm fits too closely to a limited set of data.
+
+![model](./model.png)
+
+![good](./good.png)
+
+#### Hyperparameter tuning
+
+1. Hyperparameter tuning - choosing a set of optimal hyperparameters for fitting an algorithm
+2. Regularization - technique used to reduce overfitting by discouraging overly complex models in some way
+
+A model parameter is a configuration variable that is internal to the model and whose value can be estimated from data.
+
+A model hyperparameter is a configuration that is external to the model, whose value cannot be estimated from data, and whose value guides how the algorithm learns parameter values from the data.
+
+![hyper](./hyper.png)
+
+Regularization goal - allow enough flexibility for the algorithm to learn the underlying patterns in the data but provide guardrails so it doesn't overfit.
+
+Occam's razor - whenever possible, choose the simplest answer to a problem
+
+Ridge regression and lasso regression - adding a penalty to the loss function to constrain coefficients
+
+Dropout - some nodes are ignored during training which forces the other nodes to take on more or less responsibility for the input/output
+
+## End-to-End Pipeline
 
