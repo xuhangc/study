@@ -42,8 +42,6 @@ Example:
 
 ![6](./6.png)
 
-
-
 ## Support Vector Machines
 
 
