@@ -16,5 +16,25 @@ example:
 
 ![2](./2.png)
 
-### Clean continuous variables
+## Logistic Regression
+
+
+
+## Support Vector Machines
+
+
+
+## Multi-layer Perceptron
+
+
+
+## Random Forest
+
+
+
+## Boosting
+
+
+
+## Summary
 
