@@ -44,6 +44,28 @@ Example:
 
 ## Support Vector Machines
 
+A support vector machine is a classifier that finds an optimal hyperplane that maximizes the margin between two classes.
+
+Example:
+
+![7](./7.png)
+
+![8](./8.png)
+
+The kernel trick (or kernel method) transforms data that is not linearly separable in n-dimensional space to a higher dimension where it is linearly separable.
+
+Example:
+
+![9](./9.png)
+
+When and when not
+
+![10](./10.png)
+
+C
+
+![11](./11.png)
+
 
 
 ## Multi-layer Perceptron
