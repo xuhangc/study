@@ -26,6 +26,7 @@
 - [计算机专业大学生应该在大学四年踏实学哪些东西?](https://www.zhihu.com/question/27368268)
 - [有关程序员的经典名言都有哪些？](https://www.zhihu.com/question/19710524)
 - [为什么国外许多教授喜欢在高校网站分享自己的教学文档，甚至自研的开源工具包，他们有这么多时间嘛？](https://www.zhihu.com/question/403209720)
+- [计算机科学与技术（CS）专业学生该如何系统地自学？](https://www.zhihu.com/question/37321190)
 
 ## 总览培训
 - [Developer Roadmaps](https://roadmap.sh/)
