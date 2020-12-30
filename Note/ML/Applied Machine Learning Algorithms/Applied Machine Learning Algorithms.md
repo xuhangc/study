@@ -70,7 +70,22 @@ C
 
 ## Multi-layer Perceptron
 
+A multilayer perceptron is a classic feed-forward artifical neural network, the core component of deep learning.
 
+Alternativerly: A multilayer perceptron is a connected series of nodes (in the form of a directed acyclic graph), where each node represents a function or a model.
+![12](./12.png)
+
+![13](./13.png)
+
+The hidden layer size hyperparameter determines how many hidden layers there will be and how many nodes in each layer.
+
+The activation function hyperparameter dictates the type of nonlinearity that is introduced to the model.
+
+- Sigmoid
+- TanH
+- ReLU
+
+![14](./14.png)
 
 ## Random Forest
 
