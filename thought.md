@@ -27,6 +27,8 @@
 - [有关程序员的经典名言都有哪些？](https://www.zhihu.com/question/19710524)
 - [为什么国外许多教授喜欢在高校网站分享自己的教学文档，甚至自研的开源工具包，他们有这么多时间嘛？](https://www.zhihu.com/question/403209720)
 - [计算机科学与技术（CS）专业学生该如何系统地自学？](https://www.zhihu.com/question/37321190)
+- [能推荐国外大学适合自学的CS课程（自带源码与资料）吗？非coursera/edx](https://www.zhihu.com/question/40084678)
+- [斯坦福 CS 课程4年学习规划](https://zhuanlan.zhihu.com/p/198953194)
 
 ## 总览培训
 - [Developer Roadmaps](https://roadmap.sh/)
