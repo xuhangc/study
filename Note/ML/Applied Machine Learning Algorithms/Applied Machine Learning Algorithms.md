@@ -89,11 +89,43 @@ The activation function hyperparameter dictates the type of nonlinearity that is
 
 ## Random Forest
 
+A random forest merges a collection of independent decision trees to get a more accurate and stable prediction.
 
+Ensemble methods combine several machine learning models in order to decrease both bias and variance.
+
+Majority Voting
+
+![15](./15.png)
+
+The n_estimators hyperparameter controls how many individual decision trees will be built.
+
+- width of tree
+
+The max_depth hyperparameter controls how deep each individual decision tree can go.
+
+- depth of tree
+
+![16](./16.png)
 
 ## Boosting
 
+Boosting is an ensemble method that aggregates a number of weak models to create one strong model.
 
+A weak model is one that is only slightly better than random guessing. A strong model is one that is strongly correlated with the true classification.
+
+Boosting effectively learns from its mistakes with each iteration.
+
+![17](./17.png)
+
+Training is sequential. Prediction is parallel.
+
+Weighted Voting
+
+![18](./18.png)
+
+learning rate
+
+max_depth lower than Random Forest
 
 ## Summary
 
