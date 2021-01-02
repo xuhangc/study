@@ -4,7 +4,7 @@
 
 # AI
 
-[Applied Machine Learning Algorithms](Applied Machine Learning Algorithms.md)
+[Applied Machine Learning Algorithms](./ML/Applied Machine Learning Algorithms/Applied Machine Learning Algorithms.md)
 
-[Applied Machine Learning Foundations](Applied Machine Learning Foundations.md)
+[Applied Machine Learning Foundations](./ML/Applied Machine Learning Foundations/Applied Machine Learning Foundations.md)
 
