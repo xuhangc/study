@@ -129,3 +129,11 @@ max_depth lower than Random Forest
 
 ## Summary
 
+"No free lunch" theorem: No algorithm works best for every problem.
+
+![19](./19.png)
+
+![20](./20.png)
+
+
+
