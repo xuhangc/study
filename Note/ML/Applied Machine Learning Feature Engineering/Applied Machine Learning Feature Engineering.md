@@ -55,7 +55,7 @@ Better Features
 
 ## Compare All Features
 
-
+![2](./2.png)
 
 ## Conslusion
 
