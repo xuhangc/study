@@ -28,7 +28,8 @@
     - [99%学霸都在用的国外学习网站](https://zhuanlan.zhihu.com/p/28272881)
     - [YouTube上有哪些牛逼的开发者视频博主？](https://www.zhihu.com/question/357897934)
     - [大家在计算机学习路上，都看过哪些圣经级别的书？](https://www.zhihu.com/question/58905568)
-
+    - [对开发者有用的英文网站合集，建议收藏！](https://zhuanlan.zhihu.com/p/27606723)
+    
 2. 资讯网站
     - [InfoQ](https://www.infoq.cn/)
     - [Hacker News](https://news.ycombinator.com/)

@@ -6,6 +6,9 @@
 4. [图像编辑](https://imageonline.co/)
 5. [板栗看板](https://web.banlikanban.com/login)
 6. [壁纸大全](https://wallhaven.cc/)
+7. [airtable](https://airtable.com/)
+8. [SeaTable](https://www.seatable.cn/)
+9. [leangoo](https://www.leangoo.com/)
 
 #### 可视化工具
 
