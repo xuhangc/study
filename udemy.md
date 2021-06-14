@@ -34,6 +34,8 @@ PHP for Absolute Beginners Course Catalog - Learn PHP
 
 链接：https://pan.baidu.com/s/11JoNXkLniWHnvHqPniLVMQ 提取码：o2to
 
+
+
 Top PHP Courses Online - Updated [June 2021]
 
 链接：https://pan.baidu.com/s/1X08Lpy416aYEksHwFVKgDg 提取码：z7uc
@@ -189,7 +191,7 @@ Deep Learning A-Z™: Hands-On Artificial Neural Networks Course Catalog
 链接：https://pan.baidu.com/s/1vVWIcmEx_fddfx2p9rtmjw 提取码：uutg
 
 
-Online Courses - Anytime, Anywhere | Udemy
+Understanding TypeScript - 2020 Edition Course Site
 
 链接：https://pan.baidu.com/s/1JbX5hvPDZx7-xU39OZ7-GA 提取码：z5if
 
@@ -226,7 +228,7 @@ The Complete React Developer Course (w/ Hooks and Redux)
 
 React - The Complete Guide (incl Hooks, React Router, Redux) Course Site
 
-链接：https://pan.baidu.com/s/1DGAHSvt-pJfmyTUxw6pVeQ 提取码：b8jo
+链接：https://115.com/s/swno4p133zv?password=g2b2&# 访问码：g2b2
 
 
 
