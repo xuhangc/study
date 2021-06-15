@@ -51,4 +51,6 @@
 | Arduino Web Control: Step By Step Guide Course - Learn Arduino | https://pan.baidu.com/s/1D9myNFLFna8zTl29rfR-zw | bpkw   |
 | Complete Machine Learning Masterclass - Learn From Scratch Machine | https://pan.baidu.com/s/1qPTOO4ABCo9VJea8Dbkp8A | m5na   |
 | ChatBot with Deep Learning and Natural Language Processing NLP | https://pan.baidu.com/s/10xQaeC7yGhrBeJ6U-D4xSg | dul0   |
-|                                                              |                                                 |        |
+| ARM Raspberry Pi Assembly Language From Ground Up - Course Site | https://pan.baidu.com/s/1zDclZgw5UdX0jlGqOw11CQ | 50pt   |
+| Image Processing on Raspberry Pi - Beginner to Advanced - Learn To Code | https://pan.baidu.com/s/1oMiMYhkH4eC6GVY5fGvUlg | hpe5   |
+| Beginning C++ Programming - From Beginner to Beyond Course Site | https://pan.baidu.com/s/1OIxYbv5EzFA8zYcHS4zqng | ihmf   |
